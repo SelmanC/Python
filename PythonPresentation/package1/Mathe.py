@@ -1,7 +1,7 @@
 
 
 class calc:
-    test_string = "Hallo Welt"
+    test_string = "Hallo Welt!"
     
     @staticmethod
     def plus(a, b):
