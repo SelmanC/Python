@@ -11,6 +11,14 @@ class calc:
     def minus(a,b):
         return a-b
     
+    @staticmethod
+    def multiplikation(a,b):
+        return a*b
+    
+    @staticmethod
+    def division(a,b):
+        return a/b
+    
     
 
 a = int(input("Erste Zahl: "))
